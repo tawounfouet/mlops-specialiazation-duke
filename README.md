@@ -5,6 +5,8 @@
 
 This comprehensive course series is perfect for individuals with programming knowledge such as software developers, data scientists, and researchers. You'll acquire critical MLOps skills, including the use of Python and Rust, utilizing GitHub Copilot to enhance productivity, and leveraging platforms like Amazon SageMaker, Azure ML, and MLflow. You'll also learn how to fine-tune Large Language Models (LLMs) using Hugging Face and understand the deployment of sustainable and efficient binary embedded models in the ONNX format, setting you up for success in the ever-evolving field of MLOps
 
+
+## Learn skills
 Through this series, you will begin to learn skills for various career paths:
 
 1. Data Science - Analyze and interpret complex data sets, develop ML models, implement data management, and drive data-driven decision making.
@@ -15,7 +17,9 @@ Through this series, you will begin to learn skills for various career paths:
 
 4. Artificial Intelligence (AI) Product Management - Bridge the gap between business, engineering, and data science teams to deliver impactful AI/ML products.
 
-Applied Learning Project
+
+
+## Applied Learning Project
 
 Explore and practice your MLOps skills with hands-on practice exercises and Github repositories.
 
